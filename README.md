@@ -29,7 +29,6 @@ Here are some of the languages and frameworks I'm familiar with:
 ![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
 ## Stats
-## Stats
 
 Here's a summary of my GitHub activity:
 
