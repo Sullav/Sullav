@@ -10,7 +10,7 @@ Hi there, I'm Sullav - a developer from Nepal! Here are a few of my hobbies:
 
   
 ## My works
- - Worked as a Video Editor and Graphic Designer at Brand Builders Pokhara for 7 months, contributing to engaging video content and visually appealing graphics. Played a key role in enhancing brand identity through multimedia production.
+ - ### Worked as a Video Editor and Graphic Designer at Brand Builders Pokhara for 7 months, contributing to engaging video content and visually appealing graphics. Played a key role in enhancing brand identity through multimedia production.
 
 ## Skills
 Here are some of the languages and frameworks I'm familiar with:
