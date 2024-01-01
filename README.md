@@ -15,6 +15,9 @@ Hi there, I'm Sullav - a developer from Nepal! Here are a few of my hobbies:
 ## Skills
 Here are some of the languages and frameworks I'm familiar with:
 
+## Connect with me:
+[Linked In ](https://www.linkedin.com/in/sulav-subedi-73bb45256?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bcvw0%2FoRVQwe8LmsW8%2FUVyg%3D%3D)
+
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
